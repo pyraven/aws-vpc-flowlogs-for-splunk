@@ -1,4 +1,4 @@
-I'm hoping this script can server as a starting point to help automate getting VPC Flow Logs into Splunk via Kinesis Stream.
+I'm hoping this script can serve as a starting point to help automate getting VPC Flow Logs into Splunk via Kinesis Stream.
 
 Virtual Hardware Used:
 - t2.medium with AWS App + AWS App Add-on
