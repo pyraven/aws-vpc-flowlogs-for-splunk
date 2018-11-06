@@ -13,6 +13,7 @@ comments:
 > Pretty much helping automate this video ^
 """
 
+# configure role names, policy names, aws_account, and vpc_id here
 names_dictionary = {
     "log_group_name": "Splunk-VPC-Logs",
     "kinesis_stream_name": "Splunk-VPC-Kinesis-Stream",
